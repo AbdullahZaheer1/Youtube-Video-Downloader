@@ -9,19 +9,27 @@ This is a simple yet powerful Python-based application that allows users to down
 
 ## 🚀 Features
 User-friendly GUI (no terminal commands required)
+
 Enter any video URL to start downloading
+
 Browse and select your desired download location
+
 Download button with progress action
+
 Offline .exe version available for Windows
 
 ## 🛠 Technologies Used
 Language : Python
+
 Tkinter for GUI
+
 yt-dlp for Download the videos 
+
 PyInstaller (for creating .exe)
 
 ## 📂 Files Included
 Video_Download_(GUI).exe – GUI-based downloader
+
 Video_Downloader_Offline.exe – Offline version
 
 
